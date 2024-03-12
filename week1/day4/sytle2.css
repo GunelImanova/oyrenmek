@@ -1,0 +1,20 @@
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+.first{
+    border: 3px solid rgb(75, 12, 12);
+    background-color: burlywood;
+    width: 900px;
+    height: 150px;
+    margin: 50px 20px;
+    padding: 40px;
+}
+.container{margin: 30px;}
+.second{border: 3px solid blue;
+background-color: rgb(58, 142, 221);
+width: 600px; height: 50; margin: 10px 50px; padding: 10px;}
+.first:hover{
+    background-color: brown;
+}
+.second:hover{background-color: chartreuse;
+color: aliceblue;}

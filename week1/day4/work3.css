@@ -1,0 +1,23 @@
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+div{
+    border: 5px solid purple;
+    background-color: rgba(236, 112, 220, 0.842);
+    width: 900px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+    }
+    li{margin: 10px 40px;}
+
+
+
+    .second li:last-child{list-style: none;}
+    
+    li:hover{
+        font-size: large;
+         color: aliceblue;}
+
+    h3{text-decoration: underline;
+   text-transform: uppercase;}

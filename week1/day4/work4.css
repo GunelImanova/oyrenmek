@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.first{
+    background-color: rgb(203, 206, 209);
+    width: 600px;
+    height: 500px;
+    margin: 100px 600px;
+    padding:20px 50px;
+}
+.second{
+    
+    background-color: aliceblue;
+    width: 350px;
+    height: 340px;
+    margin: 50px 70px;
+    border-radius: 15px;
+    padding: 15px;
+}
+button{
+    background-color: rgb(173, 168, 187);
+    color: rgb(35, 136, 224);
+    margin: 15px 10px;
+    font-size:15px;
+    border-radius: 5px;
+    border: none;
+   padding: 10px ;
+}
+h1{
+    margin: 10px;
+}
+p{
+color: rgba(16, 47, 75, 0.479);
+margin: 15px 10px; 
+font-size: large;
+}
+#button{
+    font-size: large;
+    color: blue;
+    padding: 10px 10px;
+    border: none;
+
+}
+#button:hover{
+    background-color: darkgreen;
+    color: aliceblue;
+padding: 10px ;
+}

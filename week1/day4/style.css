@@ -1,0 +1,16 @@
+*{margin:0;
+height: 0;
+box-sizing: border-box;}
+.border{
+    width: 200px;
+    height: 200px;
+    background-color: yellow; margin: auto;
+}
+.padding{background-color: blue;
+width: 150px; height: 150px;margin: auto;}
+
+.connect{background-color: red;
+width: 100px; height: 100px;margin: auto;}
+
+.margin{width:380px;height: 220px;
+background-color: green;margin: auto;}
