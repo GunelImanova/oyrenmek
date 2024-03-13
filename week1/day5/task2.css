@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.border{
+    border: 2px solid wheat;
+    width: 700px;
+    height: 500px;
+    margin: 50px auto;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    word-spacing: 10px;
+    border: 2px solid blue;
+    height: 50px;
+    width: 500px;
+    margin: 50px;
+
+}
+.box1 p{
+    font-size: larger;
+    color: blue;
+}
+
+.qutu{
+    border: 1px solid blue;
+    height: 230px;
+    width: 150px;
+    margin: 50px 30px;
+    border-radius: 20px;
+    display: flex;
+flex-direction: column;
+align-items: center;
+gap: 15px;
+}
+
+.box2{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    border: 1px solid wheat;
+    height: 30px;
+    width: 50px;
+
+}
+.heading{
+    border: 1px solid wheat;
+    height: ;
+}
