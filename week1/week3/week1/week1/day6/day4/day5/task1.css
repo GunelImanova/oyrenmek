@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.border{
+    border: 3px solid wheat;
+    width: 600px;
+    height: 400px;
+    margin: 50px auto;
+    background-image: url(https://img.pikbest.com/wp/202343/abstract-beige-background-crumpled-striped-fabric-texture-for-design_9941589.jpg!bw700);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 45px;
+}
+
+.box1{
+    border: 1px solid wheat;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    padding: 20px;
+}
+h4{
+    font-family: "Unbounded", sans-serif;
+    text-align: center;
+    font-size:8px;
+}
+.box2{
+    height: 70px;
+    width: 200px;
+    border: 1px solid wheat;
+}
+h1{
+    text-align: center;
+}
+.box3 p{
+    text-align: center;
+
+}
+button{
+    border: 1px solid wheat;
+    height: 30px;
+    width: 100px;
+    
+    padding: 5px;
+}
+.list{
+    list-style: none;
+
+    padding: 5px;
+}
+ul{
+    display: flex;
+    gap: 10px;
+}
