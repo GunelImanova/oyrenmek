@@ -1,6 +1,6 @@
-import { post } from "./API/requests/index.js";
-import { endpoints } from "./API/constants.js";
 
+import { endpoints } from "./API/constants.js";
+import { post } from "./API/requests/index.js";
 const titleInp = document.querySelector("#title");
 const posterInp = document.querySelector("#poster");
 const trailerURLInp = document.querySelector("#trailerURL");

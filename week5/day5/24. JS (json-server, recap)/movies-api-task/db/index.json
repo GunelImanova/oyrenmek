@@ -35,14 +35,14 @@
     },
     {
       "id": "7",
-      "title": "ff",
-      "genre": "sfdsf",
-      "country": "yyt",
-      "director": "trtgr",
-      "ageRestriction": "636",
-      "poster": "fff",
-      "trailerURL": "dfsdf",
-      "description": "grrr"
+      "title": "spiderman",
+      "genre": "act",
+      "country": "usa",
+      "director": "szfc",
+      "ageRestriction": "18",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png",
+      "trailerURL": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+      "description": "cfwegvfdv gdfvsf"
     }
   ],
   "genres": [
@@ -77,6 +77,60 @@
           "movieId": 2
         }
       ]
+    },
+    {
+      "id": "ed65",
+      "email": "",
+      "username": "jhnbh",
+      "password": "123456"
+    },
+    {
+      "id": "116e",
+      "email": "",
+      "username": "jhnbh",
+      "password": "123456"
+    },
+    {
+      "id": "9d2c",
+      "email": "",
+      "username": "jhnbh",
+      "password": "123456"
+    },
+    {
+      "id": "e685",
+      "email": "",
+      "username": "jhnbh",
+      "password": "123456"
+    },
+    {
+      "id": "e3fc",
+      "email": "",
+      "username": "gulsen@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "fbf5",
+      "email": "",
+      "username": "gulsen@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1a74",
+      "email": "",
+      "username": "gulsen@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a323",
+      "email": "gunel1@gmail.com",
+      "username": "gulsen",
+      "password": "1234567"
+    },
+    {
+      "id": "96e2",
+      "email": "salamlar@gmail.com",
+      "username": "salam",
+      "password": "12345"
     }
   ]
 }
